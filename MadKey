@@ -1,4 +1,4 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/MadGics/Madgics/main/Estembirdu")()
+loadstring(game:HttpGet"https://github.com/MadGics/Madgics/raw/main/KeyNet")()
 if isfile and isfile"TheKey.shit" and readfile and readfile"TheKey.shit" == CorrectKey then
     warn"KEY IS CORRECT!"
     return execute()
