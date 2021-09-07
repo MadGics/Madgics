@@ -2,4 +2,4 @@ function execute()
     game:GetService"StarterGui":SetCore("SendNotification", { Title = "Notification", Text = "Key is correct!", Duration = 2 })
 end
 
-loadstring(game:HttpGet"https://raw.githubusercontent.com/MadGics/Madgics/main/MadKey")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/MadGics/Madgics/main/MadKeys")()
