@@ -4,5 +4,6 @@ end
 }
 getgenv().breathing = "Love Breathing"
 getgenv().race = 2 
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/SlayersChanging'),true))()
 
 loadstring(game:HttpGet"https://raw.githubusercontent.com/MadGics/Madgics/main/UnleashK")()
