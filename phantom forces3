@@ -1,0 +1,5 @@
+function execute()
+    Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidMasterX/whub/main/main/.lua"))()
+end
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/MadGics/Madgics/main/Phantom%20Forces%20Script2")()
